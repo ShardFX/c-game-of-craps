@@ -1,0 +1,18 @@
+﻿  functions.c
+c:\users\anwar\desktop\cpts121\pa4 - craps\pa4 - craps\functions.c(58): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\anwar\desktop\cpts121\pa4 - craps\pa4 - craps\functions.c(66): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\anwar\desktop\cpts121\pa4 - craps\pa4 - craps\functions.c(205): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\anwar\desktop\cpts121\pa4 - craps\pa4 - craps\functions.c(229): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+c:\users\anwar\desktop\cpts121\pa4 - craps\pa4 - craps\functions.c(251): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(475): note: see declaration of 'ctime'
+c:\users\anwar\desktop\cpts121\pa4 - craps\pa4 - craps\functions.c(264): warning C4013: 'main' undefined; assuming extern returning int
+c:\users\anwar\desktop\cpts121\pa4 - craps\pa4 - craps\functions.c(268): warning C4550: expression evaluates to a function which is missing an argument list
+c:\users\anwar\desktop\cpts121\pa4 - craps\pa4 - craps\functions.c(260): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\anwar\desktop\cpts121\pa4 - craps\pa4 - craps\functions.c(108): warning C4715: 'is_win_loss_or_point': not all control paths return a value
+c:\users\anwar\desktop\cpts121\pa4 - craps\pa4 - craps\functions.c(253): warning C4716: 'current_time': must return a value
+  PA4 - Craps.vcxproj -> C:\Users\anwar\Desktop\CptS121\PA4 - Craps\Debug\PA4 - Craps.exe
+  PA4 - Craps.vcxproj -> C:\Users\anwar\Desktop\CptS121\PA4 - Craps\Debug\PA4 - Craps.pdb (Full PDB)
